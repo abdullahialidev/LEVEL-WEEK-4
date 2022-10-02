@@ -1,0 +1,481 @@
+*{
+    box-sizing: border-box;
+}
+
+header{
+    height: 138px;
+    width: 100%;
+    float: left;
+    clear: both;
+    border: 2px solid black;
+    background-color: rgb(107, 118, 136);
+}
+header button{
+    float: left;
+    width: 6%;
+    margin-left: 1307px;
+    margin-top: -23px;
+    font-size: 18px;
+    color: rgb(107, 118, 136);
+}
+
+.one{
+    height: 498px;
+    width: 100%;
+    float: left;
+    clear: both;
+    border: 2px solid black;
+    background-color:rgb(107, 118, 136)
+}
+#classes{
+    width: 7%;
+    margin-left: 48px;
+    font-size: 21px;
+    margin-top: -1px;
+    color: white;
+    float: left;
+}
+#hire{
+    width: 6%;
+    float: left;
+    margin-left: 84px;
+    font-size: 21px;
+    margin-top: 0px;
+    color: white;
+}
+header img{
+    margin-left: 658px;
+    margin-top: -25px;
+    float: left;
+    width: 6%;
+}
+.one h2{
+    float: left;
+    width: 67%;
+    margin-left: 318px;
+    margin-top: 54px;
+    font-size: 52px;
+    color:white;
+}
+.one p{
+    float: left;
+    width: 1218px;
+    margin-left: 196px;
+    margin-top: 7px;
+    font-size: 34px;
+    color:white;
+}
+
+.one img{
+    float: left;
+    width: 3%;
+    margin-left: 628px;
+    margin-top: 32px;
+}
+#video{
+    float: left;
+    width: 12%;
+    margin-left: 15px;
+    margin-top: 41px;
+    font-size: 25px;
+    color:white;
+}
+#background{
+    float: left;
+    width: 11%;
+    margin-left: -200px;
+    margin-top: 129px;
+    font-style: italic;
+}
+.why{
+    height: 415px;
+    width: 100%;
+    float: left;
+    clear: both;
+    border: 2px solid black;
+    border-right: none;
+    border-left: none;
+}
+.why h2{
+    float: left;
+    width: 6%;
+    margin-left: 653px;
+    margin-top: 81px;
+    font-size: 45px;
+}
+.why p{
+    float: left;
+    width: 78%;
+    margin-left: -592px;
+    margin-top: 174px;
+    font-size: 37px;
+}
+.moreinfo{
+    width: 100%;
+    float: left;
+    border: 2px solid black;
+    height: 670px;
+    background-color: rgb(219, 223, 226);
+}
+.moreleft{
+    width: 50%;
+    border: 2px solid black;
+    height: 670px;
+    float: left;
+}
+.moreright{
+    width: 50%;
+    border: 2px solid black;
+    height: 670px;
+    float: left;
+}
+.moreleft img{
+    width: 42%;
+    float: left;
+    margin-left: 180px;
+    margin-top: 103px;
+}
+.moreright img{
+    width: 42%;
+    float: left;
+    margin-left: 182px;
+    margin-top: 96px;
+}
+.moreleft h2{
+    width: 30%;
+    font-weight: bold;
+    margin-top: 362px;
+    margin-left: 195px;
+}
+.moreright h2{
+    width: 40%;
+    font-weight: bold;
+    margin-top: 362px;
+    margin-left: 182px;
+}
+.moreleft p{
+    width:99%;
+    font-size: 21px;
+}
+.moreright p{
+    width:98%;
+    font-size:21px;
+}
+.moreleft input{
+    background-color: rgb(219, 223, 226);
+    font-weight: bold;
+    color: black;
+    width: 44%;
+    font-size: 42px;
+    margin-left: 174px;
+}
+.moreright input{
+    background-color: rgb(219, 223, 226);
+    font-weight: bold;
+    color: black;
+    width: 23%;
+    font-size: 37px;
+    margin-left: 260px;
+}
+.volunteer {
+    width: 100%;
+    height: 435px;
+    border: 2px solid black;
+    float: left;
+}
+.volunteer h2{
+    width: 55%;
+    font-weight: bold;
+    margin-top: 45px;
+    margin-left: 336px;
+    font-size: 41px;
+}
+.volunteer p{
+    font-weight: bold;
+    float: left;
+    margin-top: -10px;
+    margin-left: 148px;
+    font-size: 27px;
+    width: 79%;
+}
+.volunteer input{
+    background-color: white;
+    font-weight: bold;
+    color: black;
+    width: 17%;
+    font-size: 37px;
+    margin-left: 591px;
+}
+footer{
+    height: 478px;
+    float: left;
+    width: 100%;
+    border: 2px solid black;
+    background-color: black;
+}
+.footertop{
+    height: 297px;
+    float: left;
+    width: 100%;
+    border: 2px solid black;
+}
+.footerbottom{
+    margin-top: 82px;
+    height: 96px;
+    float: left;
+    width: 95%;
+    border: 2px solid black;
+    margin-left: 41px;
+    border-top-color: white;
+}
+.footerbottom h3{
+    width: 72%;
+    font-weight: bold;
+    margin-top: 33px;
+    margin-left: 9px;
+    font-size: 21px;
+    color:white;
+}
+.footerbottom img{
+    width: 4%;
+    float: left;
+    margin-left: 1288px;
+    margin-top: -58px;
+}
+#facebook{
+    width: 3%;
+    float: left;
+    margin-left: 54px;
+    margin-top: 55px;
+    background-color: white;
+}
+#twitter{
+    width: 3%;
+    float: left;
+    margin-left: 54px;
+    margin-top: 55px;
+    background-color: white;
+}
+#emailbutton{
+    width: 3%;
+    float: left;
+    margin-left: 35px;
+    margin-top: 55px;
+    background-color: white;
+}
+#sitemap{
+    width: 12%;
+    float: left;
+    margin-left: -231px;
+    margin-top: 146px;
+    font-size: 29px;
+    color: rgb(107, 118, 136);
+}
+#classesfooter{
+    width: 12%;
+    float: left;
+    margin-left: -231px;
+    margin-top: 194px;
+    font-size: 35px;
+    color: white;
+}
+#hireusfooter{
+    width: 8%;
+    float: left;
+    margin-left: -60px;
+    margin-top: 194px;
+    font-size: 35px;
+    color: white;
+}
+#contributefooter{
+    width: 14%;
+    float: left;
+    margin-left: -288px;
+    margin-top: 274px;
+    font-size: 35px;
+    color: rgb(107, 118, 136);
+}
+#givefooter{
+    width: 8%;
+    float: left;
+    margin-left: -286px;
+    margin-top: 315px;
+    font-size: 27px;
+    color: white;
+}
+#volunteerfoot{
+    width: 11%;
+    float: left;
+    margin-left: -126px;
+    margin-top: 318px;
+    font-size: 27px;
+    color: white;
+}
+#footerlevel{
+    width: 15%;
+    float: left;
+    margin-left: 808px;
+    margin-top: 40px;
+    font-size: 21px;
+    color: white;
+}
+#footermma{
+    width: 16%;
+    float: left;
+    margin-left: 808px;
+    margin-top: 11px;
+    font-size: 21px;
+    color: white;
+}
+#address{
+    width: 15%;
+    float: left;
+    margin-left: 807px;
+    margin-top: 89px;
+    font-size: 21px;
+    color: white;
+}
+#city{
+    width: 18%;
+    float: left;
+    margin-left: 807px;
+    margin-top: 8px;
+    font-size: 21px;
+    color: white;
+}
+#phonenumber{
+    width: 11%;
+    float: left;
+    margin-left: 1161px;
+    margin-top: -126px;
+    font-size: 21px;
+    color: white;
+}
+#emailhere{
+width: 18%;
+float: left;
+margin-left: 1155px;
+margin-top: -92px;
+font-size: 21px;
+color: white;
+}
+#backgroundimg{
+    height: 499px;
+    width: 100%;
+    opacity: 0.12;
+    margin-left: -1px;
+    margin-top: -392px;
+}
+@media screen 
+and (max-device-width: 1414px) 
+and (-webkit-min-device-pixel-ratio: 1)
+{header button{
+   display:none; 
+}
+#footerlevel{
+    display:none;
+}
+#footermma{
+    display:none;
+}
+#address{
+    display:none;
+}
+#phonenumber{
+    display:none;
+}
+#emailhere{
+    display:none;
+}
+.footerbottom{
+    display:none
+}
+#city{
+    display:none;
+}
+header{
+    display:none;
+}
+.moreleft input{
+    display:none;
+}
+.moreright input{
+    display:none;
+}
+.volunteer input{
+    display:none;
+}
+#backgroundimg{
+    display:none;
+}
+.one p{
+    display:none;
+}
+footer{
+    height: 478px;
+    float: left;
+    width: 100%;
+    border: 2px solid black;
+    background-color: black;
+    padding-left: 502px;
+}
+#sitemap{
+    width: 12%;
+    float: left;
+    margin-left: -231px;
+    margin-top: 120px;
+    font-size: 29px;
+    color: rgb(107, 118, 136);
+}
+}
+@media screen 
+and (max-device-width: 746px) 
+and (-webkit-min-device-pixel-ratio: 1)
+{
+#background{
+    display:none;
+}
+.one h2{
+    float: left;
+    width: 67%;
+    margin-left: 318px;
+    margin-top: 54px;
+    font-size: 52px;
+    color: white;
+}
+.one img{
+    float: left;
+    width: 3%;
+    margin-left: 379px;
+    margin-top: 32px
+}
+    #video{
+    float: left;
+    width: 12%;
+    margin-left: 15px;
+    margin-top: 41px;
+    font-size: 25px;
+    color: white;
+    }
+    footer{
+        display:none;
+    }
+    .why{
+        display:none;
+    }
+    .volunteer{
+        width: 100%;
+        height: 551px;
+        border: 2px solid black;
+        float: left;
+    }
+}
+@media screen 
+and (max-device-width: 468px) 
+and (-webkit-min-device-pixel-ratio: 1)
+{
+.volunteer{
+display:none;
+}
+}
+
